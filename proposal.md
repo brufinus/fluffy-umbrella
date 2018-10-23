@@ -41,7 +41,8 @@ Describe at a high level a program that could solve that problem.
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
+When requested, the program will output data on a person's relationships, current status, age, birth date, and if unlucky enough, death date. Example format will be as follows:
+John Doe - Age: 28, Marital status: Single, Birth Date: January 1, 1990
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
