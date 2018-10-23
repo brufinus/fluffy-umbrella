@@ -29,8 +29,10 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
+Briefly describe a problem that your team would like to solve.
+Ancestry Tree. Will hold birth, death, relationship data.
 Describe at a high level a program that could solve that problem.
+
 
 ## Questions to answer for Exercise #2
 
