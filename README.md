@@ -15,7 +15,7 @@
    * When did you complete this exercise? 
    October 23
    * How long did it take your team to complete this exercise? 
-   20 minutes
+   A little under an hour.
 
 ## Table of Contents
 
