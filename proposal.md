@@ -52,9 +52,7 @@ Mary Jane - Age: 30 Alive, Marital status: Married to Peter Piper, Birth Date: J
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-First we would be needing the data to make each Node. Every Node will have the person's basic details like name and date of birth. Then we will need the connections between every person to establish the relationships between each person.
 
-Name: ______, DoB: mm/dd/yyyy; Marital Status:___; Age: __
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 A prompt will appear asking the user what to do.
@@ -62,7 +60,7 @@ The user can then either search or add a person.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+There will be a Person Node that has a list of all known relationships. The node will store all the personal data of the person such as age, martial status, and birth date. There will also be a Main class that the user interacts with where they can input who they are and who they are trying to reach.
 
 
 Name each interface or class and briefly describe its function or purpose.
