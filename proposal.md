@@ -44,19 +44,19 @@ Degrees of Separation
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-When requested, the program will output data on a person's relationships, current status, age, birth date, and if unlucky enough, death date. Example format will be as follows:
-Requesting data on John Doe...
-John Doe - Age: 28 Alive, Marital status: Single, Birth Date: January 1, 1990
-Requesting data on Mary Jane...
-Mary Jane - Age: 30 Alive, Marital status: Married to Peter Piper, Birth Date: January 1, 1988
+When requested, the program will output data on a person's relationship with an other person's in the graph.
+Requesting data on John Doe and Mary Jane...
+John Doe - 4 relationships close to Mary Jane... <John Doe - Person - Person - Person - Mary Jane>
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 First we would be needing the data to make each Node. Every Node will have the person's basic details like name and date of birth. Then we will need the connections between every person to establish the relationships between each person.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-A prompt will appear asking the user what to do.
-The user can then either search or add a person.
+A prompt will appear asking the user what to do. The prompt will be a simple text menu.
+The user will have the choice of either searching the relationship of two people, or to add a person.
+If search is chosen, the user will input two people.
+If add a person is chosen, then the user will add the person and then that person's relationship to someone else.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
