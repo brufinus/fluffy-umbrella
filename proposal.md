@@ -48,7 +48,7 @@ When requested, the program will output data on a person's relationships, curren
 Requesting data on John Doe...
 John Doe - Age: 28 Alive, Marital status: Single, Birth Date: January 1, 1990
 Requesting data on Mary Jane...
-Mary Jane - Age: 30 Alive, Marital status: Married to Peter Parker, Birth Date: UNKNOWN
+Mary Jane - Age: 30 Alive, Marital status: Married to Peter Piper, Birth Date: January 1, 1988
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
