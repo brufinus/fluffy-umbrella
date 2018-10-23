@@ -20,17 +20,18 @@ and missed deadlines.
 3. Check github
 
 
-## How will will communicate difficulties with a task assigned to us
-Message each other when you run into a problem. 
+## How we will communicate difficulties with a task assigned to us
+Message each other when we run into a problem.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-Communicate with each other.
+1. Message each other at least a couple days in advance.
+2. Send occasional updates.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-Don't be mean.
-Don't be afraid to communicate your problems.
-Don't wait until the last minute.
+1. Don't be mean.
+2. Don't be afraid to communicate your problems.
+3. Don't wait until the last minute.
 
 
