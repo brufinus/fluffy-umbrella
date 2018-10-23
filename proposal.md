@@ -33,6 +33,9 @@ Briefly describe a problem that your team would like to solve.
 Ancestry Tree. Will hold birth, death, relationship data.
 Describe at a high level a program that could solve that problem.
 
+# How many contacts does John need to go through to get in touch with Sarah?
+This problem creates a graph from individuals and their contact lists. A question we would like to answer what is the least number of contacts a specified person would need to go through to get in touch with someone else, if that is even possible. The way we would solve it is traversing through the graph in a depth first manner until that person is found, then optimizing until the least number of contact touches is determined.
+
 
 ## Questions to answer for Exercise #2
 
