@@ -1,4 +1,4 @@
-# X-Team 55 Degrees of Separation
+# X-Team 55: Degrees of Separation
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -64,7 +64,8 @@ There will be a Person Node that has a list of all known relationships. The node
 
 
 Name each interface or class and briefly describe its function or purpose.
-
+Person class - Will be the node that will hold an individual's degree of separation, name, etc.
+Graph class - Implements a graph to hold nodes.
 
 ## Edit and Submit this file and any figures referenced by this document.
 
